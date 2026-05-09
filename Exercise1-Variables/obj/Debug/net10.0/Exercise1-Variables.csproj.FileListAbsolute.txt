@@ -12,3 +12,4 @@ C:\Users\User\OneDrive - BYU-Pathway Worldwide\csharp-programming-exercises\Exer
 C:\Users\User\OneDrive - BYU-Pathway Worldwide\csharp-programming-exercises\Exercise1-Variables\obj\Debug\net10.0\Exercise1-Variables.pdb
 C:\Users\User\OneDrive - BYU-Pathway Worldwide\csharp-programming-exercises\Exercise1-Variables\obj\Debug\net10.0\Exercise1-Variables.genruntimeconfig.cache
 C:\Users\User\OneDrive - BYU-Pathway Worldwide\csharp-programming-exercises\Exercise1-Variables\obj\Debug\net10.0\ref\Exercise1-Variables.dll
+C:\Users\User\OneDrive - BYU-Pathway Worldwide\csharp-programming-exercises\Exercise1-Variables\obj\Debug\net10.0\Exercise1-Variables.sourcelink.json
