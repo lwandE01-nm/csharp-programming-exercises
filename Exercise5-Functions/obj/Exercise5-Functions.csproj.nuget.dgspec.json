@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\OneDrive - BYU-Pathway Worldwide\\csharp-programming-exercises\\Exercise5-Functions\\Exercise5-Functions.csproj": {}
+    "c:\\Users\\User\\OneDrive - BYU-Pathway Worldwide\\csharp-programming-exercises\\Exercise5-Functions\\Exercise5-Functions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\OneDrive - BYU-Pathway Worldwide\\csharp-programming-exercises\\Exercise5-Functions\\Exercise5-Functions.csproj": {
+    "c:\\Users\\User\\OneDrive - BYU-Pathway Worldwide\\csharp-programming-exercises\\Exercise5-Functions\\Exercise5-Functions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive - BYU-Pathway Worldwide\\csharp-programming-exercises\\Exercise5-Functions\\Exercise5-Functions.csproj",
+        "projectUniqueName": "c:\\Users\\User\\OneDrive - BYU-Pathway Worldwide\\csharp-programming-exercises\\Exercise5-Functions\\Exercise5-Functions.csproj",
         "projectName": "Exercise5-Functions",
-        "projectPath": "C:\\Users\\User\\OneDrive - BYU-Pathway Worldwide\\csharp-programming-exercises\\Exercise5-Functions\\Exercise5-Functions.csproj",
+        "projectPath": "c:\\Users\\User\\OneDrive - BYU-Pathway Worldwide\\csharp-programming-exercises\\Exercise5-Functions\\Exercise5-Functions.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive - BYU-Pathway Worldwide\\csharp-programming-exercises\\Exercise5-Functions\\obj\\",
+        "outputPath": "c:\\Users\\User\\OneDrive - BYU-Pathway Worldwide\\csharp-programming-exercises\\Exercise5-Functions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

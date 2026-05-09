@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\OneDrive - BYU-Pathway Worldwide\\csharp-programming-exercises\\Exercise4-Lists\\Exercise4-Lists.csproj": {}
+    "c:\\Users\\User\\OneDrive - BYU-Pathway Worldwide\\csharp-programming-exercises\\Exercise4-Lists\\Exercise4-Lists.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\OneDrive - BYU-Pathway Worldwide\\csharp-programming-exercises\\Exercise4-Lists\\Exercise4-Lists.csproj": {
+    "c:\\Users\\User\\OneDrive - BYU-Pathway Worldwide\\csharp-programming-exercises\\Exercise4-Lists\\Exercise4-Lists.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive - BYU-Pathway Worldwide\\csharp-programming-exercises\\Exercise4-Lists\\Exercise4-Lists.csproj",
+        "projectUniqueName": "c:\\Users\\User\\OneDrive - BYU-Pathway Worldwide\\csharp-programming-exercises\\Exercise4-Lists\\Exercise4-Lists.csproj",
         "projectName": "Exercise4-Lists",
-        "projectPath": "C:\\Users\\User\\OneDrive - BYU-Pathway Worldwide\\csharp-programming-exercises\\Exercise4-Lists\\Exercise4-Lists.csproj",
+        "projectPath": "c:\\Users\\User\\OneDrive - BYU-Pathway Worldwide\\csharp-programming-exercises\\Exercise4-Lists\\Exercise4-Lists.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive - BYU-Pathway Worldwide\\csharp-programming-exercises\\Exercise4-Lists\\obj\\",
+        "outputPath": "c:\\Users\\User\\OneDrive - BYU-Pathway Worldwide\\csharp-programming-exercises\\Exercise4-Lists\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

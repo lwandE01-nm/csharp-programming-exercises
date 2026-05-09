@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\OneDrive - BYU-Pathway Worldwide\\csharp-programming-exercises\\Exercise3-Loops\\Exercise3-Loops.csproj": {}
+    "c:\\Users\\User\\OneDrive - BYU-Pathway Worldwide\\csharp-programming-exercises\\Exercise3-Loops\\Exercise3-Loops.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\OneDrive - BYU-Pathway Worldwide\\csharp-programming-exercises\\Exercise3-Loops\\Exercise3-Loops.csproj": {
+    "c:\\Users\\User\\OneDrive - BYU-Pathway Worldwide\\csharp-programming-exercises\\Exercise3-Loops\\Exercise3-Loops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive - BYU-Pathway Worldwide\\csharp-programming-exercises\\Exercise3-Loops\\Exercise3-Loops.csproj",
+        "projectUniqueName": "c:\\Users\\User\\OneDrive - BYU-Pathway Worldwide\\csharp-programming-exercises\\Exercise3-Loops\\Exercise3-Loops.csproj",
         "projectName": "Exercise3-Loops",
-        "projectPath": "C:\\Users\\User\\OneDrive - BYU-Pathway Worldwide\\csharp-programming-exercises\\Exercise3-Loops\\Exercise3-Loops.csproj",
+        "projectPath": "c:\\Users\\User\\OneDrive - BYU-Pathway Worldwide\\csharp-programming-exercises\\Exercise3-Loops\\Exercise3-Loops.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive - BYU-Pathway Worldwide\\csharp-programming-exercises\\Exercise3-Loops\\obj\\",
+        "outputPath": "c:\\Users\\User\\OneDrive - BYU-Pathway Worldwide\\csharp-programming-exercises\\Exercise3-Loops\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
